@@ -1,2 +1,2 @@
 # typescript-tester
-För att börja lära mig typescript
+Ett repo som jag har skapat för att börja lära mig typescript
